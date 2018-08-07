@@ -1,5 +1,2 @@
 intial rea
-1st conflict master change
-
-
-
+1st conflict master change bigBranch
